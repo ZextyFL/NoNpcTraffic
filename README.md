@@ -8,3 +8,5 @@ A simple script designed to remove all NPC vehicle traffic from the game world, 
  Works in real-time; updates world population continuously
 
  Lightweight and easy to integrate
+
+for any Questions: https://discord.gg/rsWs3edH
